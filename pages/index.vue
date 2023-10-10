@@ -21,6 +21,11 @@
           Результаты
         </NuxtLink>
       </li>
+      <li class="nav-elem">
+        <NuxtLink href="/purchase" class="nav-link">
+          Покупка
+        </NuxtLink>
+      </li>
     </ul>
   </div>
 </template>
